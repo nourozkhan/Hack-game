@@ -1,0 +1,56 @@
+body
+{
+       text-align: center;
+    padding: 20px;
+    margin: 10px;
+    font-size: 25px;
+    font-family: sans-serif;
+    background: #ffffff;
+    color: #642520;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+div
+{
+    border: 10px solid #01aff1;
+    width: 80%;
+    padding: 70px;
+    margin: 20px auto;
+    background: #e6e1e1;
+}
+img
+{
+    height: 100px;
+    width: 100px;
+    float: left;
+    padding: 0px 0px 0px 100px;
+    margin: -10px -50px 5px 50px;
+}
+h1
+{
+        display: inline;
+    padding: 10px 150px 20px 0px;
+    margin: 0px 20px 0px -50px;
+    font-size: 80px;
+}
+button
+{
+    padding: 5px 35px 5px 35px;
+    background: rgb(34, 51, 58);
+    font-size: 20px;
+    font-weight: 700;
+    color: gray;
+    border: 3px solid rgb(80, 107, 104);
+}
+button:hover
+{
+    background: brown
+}
+.show
+{
+    visibility: visible
+}
+.hide
+{
+    display: none
+}
